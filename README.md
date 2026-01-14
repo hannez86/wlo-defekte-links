@@ -1,18 +1,11 @@
 ## HowTo: Tampermonkey in Firefox installieren und automatisch angeblich defekte Links prüfen.
 
 1.  **Firefox öffnen**
-
-```{=html}
-<!-- -->
-```
 2.  **Add-ons-Seite öffnen**
 
 -   Menü öffnen (**☰** rechts oben)
 
 -   **Add-ons und Themes** auswählen
-
-    ![](Pictures/10000000000007C0000002A2D14AF19C.png){width="16.249cm"
-    height="5.519cm"}
 
 3.  **Nach Tampermonkey suchen**
 
@@ -25,9 +18,6 @@
 
 -   Darauf achten, dass es das offizielle Add-on ist
     (Name/Logo/Publisher)
-
-    ![](Pictures/100000000000050C000003063C645AD8.png){width="16.249cm"
-    height="9.733cm"}
 
 5.  **Installieren**
 
@@ -49,20 +39,14 @@
 
 -   Auf das **Tampermonkey-Icon** klicken
 
--   **Ü**bersicht**** öffnen
-
-    ![](Pictures/1000000000000C00000006C0D1679FD6.png){width="16.249cm"
-    height="9.139cm"}
+-   **Übersicht** öffnen
 
 2.  **Import starten**
 
--   Im Dashboard den Tab/Bereich ****Hilfsprogramme****
+-   Im Dashboard den Tab/Bereich **Hilfsprogramme**
     (Dienstprogramme) öffnen
 
 -   Bereich **Import** suchen
-
-    ![](Pictures/10000000000003B6000001EE77324AB2.png){width="16.249cm"
-    height="8.449cm"}
 
 3.  **Datei auswählen**
 
@@ -75,9 +59,6 @@
 -   Danach prüfen, ob das Script in der Script-Liste auftaucht und
     **aktiv** ist
 
-![](Pictures/1000000000000B9C00000040B2A77A57.png){width="17cm"
-height="0.365cm"}
-
 5.  **Testlauf**
 
 -   Ziel-Webseite öffnen, auf der das Script wirken soll
@@ -86,8 +67,6 @@ height="0.365cm"}
     mich unter wirlernenonline.de einlogge, eine Adresse der Form
     oer.wirlernenonline.de
 
-    ![](Pictures/10000000000003360000003A0C5FCC4D.png){width="16.249cm"
-    height="1.145cm"}\
     Wenn ich schon eingeloggt war, lande ich auch gerne mal auf
     „redaktion.wirlernenonline.de" → Dort funktioniert das Skript
     derzeit **nicht**. Bei mir hilft der Logout und erneute Login :)
@@ -97,8 +76,6 @@ height="0.365cm"}
 -   **Voila, wenn du in der Redaktionsumgebung in das Inhalebuffet
     gehst, sollte oben eine „Linkchecker-Leiste" erscheinen.**
 
-    ![](Pictures/100000000000059A0000004AB0A10C12.png){width="16.249cm"
-    height="0.838cm"}**
 
 -   **Setze den Filter links auf „Objekte mit defekten Links". Wenn nun
     etwas gefunden wird: Starte das Skript mit einem Klick auf „Links
@@ -109,7 +86,3 @@ height="0.365cm"}
     sich das Seitenpanel öffnet. Dann am Material links den Button
     ablehnen klicken. Fertig.**
 
-**
-
-![](Pictures/100000000000091E0000024E5C8AE1B3.png){width="17cm"
-height="4.297cm"}**
